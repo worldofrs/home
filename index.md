@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# About Software Engineering Leader: Tridib Saha
+Tridib has demonstrated success from being an individual contributor to an engineering leader with hands-on approach who can achieve success with diverse and distributed teams including front-end and backend developers, scrum masters, product owners and product managers along with collaboarting with cross-functional engineering teams.
+#
+Tridib has unique ability to translate high level business asks into specific software requirement specifications, conceptualize arcitecture building blocks, identify gaps, create simple and easy to understand engineering solution designs. 
+#
+## Architecture
+## Engineering 
+## Technology & Tools
 
-You can use the [editor on GitHub](https://github.com/tridibsaha/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tridibsaha/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
