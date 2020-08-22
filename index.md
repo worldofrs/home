@@ -11,6 +11,7 @@ Tridib considers estimation of efforts an important activity for breaking down d
 ## Engineering 
 ## Technology & Tools
 ## Agile Software Development
+## Automation - CICD
 
 
 
