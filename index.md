@@ -5,10 +5,12 @@ Tridib can translate high level business asks into specific software requirement
 
 Tridib considers estimation of efforts an important activity for breaking down development  and testing efforts into measurable sizes and scheduling iterations to achieve on-time delivery and shipping highest quality products. 
 
-
+## Customer Obsession
+## Requirements 
 ## Architecture
 ## Engineering 
 ## Technology & Tools
+## Agile Software Development
 
 
 
