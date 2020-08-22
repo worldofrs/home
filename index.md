@@ -3,7 +3,7 @@ Tridib has demonstrated success from being an individual contributor to an engin
 
 Tridib can translate high level business asks into specific software requirement specifications, conceptualize architecture building blocks, identify gaps, create simple and easy to understand engineering solution designs. Tridib emphasizes to include non-functional requirements such as scalability, reliability, security and automation into architecture decisions.
 
-Tridib considers estimation of efforts an important activity for breaking down development  and testing efforts into measurable sizes and scheduling iterations to achieve on-time delivery and shipping highest quality products. 
+Tridib considers estimation of efforts an important activity for breaking down development and testing efforts into measurable sizes as well as scheduling iterations to achieve on-time delivery and shipping highest quality products. 
 
 ## Customer Obsession
 ## Requirements 
